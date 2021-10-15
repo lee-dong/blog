@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.dongdongdong.vip/2021/10/14/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8GitHub+Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://blog.dongdongdong.vip/default/f9b0cf9b35a1/</loc>
     
     <lastmod>2021-10-14</lastmod>
     
@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>http://blog.dongdongdong.vip/repository/</loc>
+    <loc>http://blog.dongdongdong.vip/links/</loc>
     
     <lastmod>2021-10-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.dongdongdong.vip/links/</loc>
+    <loc>http://blog.dongdongdong.vip/repository/</loc>
     
     <lastmod>2021-10-14</lastmod>
     
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://blog.dongdongdong.vip/2021/10/14/hello-world/</loc>
+    <loc>http://blog.dongdongdong.vip/default/56e664894734/</loc>
     
     <lastmod>2021-10-14</lastmod>
     
@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://blog.dongdongdong.vip/</loc>
-    <lastmod>2021-10-14</lastmod>
+    <lastmod>2021-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
