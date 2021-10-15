@@ -6,7 +6,7 @@
   <link href="http://blog.dongdongdong.vip/atom.xml" rel="self"/>
   
   <link href="http://blog.dongdongdong.vip/"/>
-  <updated>2021-10-15T12:53:36.470Z</updated>
+  <updated>2021-10-15T13:00:20.000Z</updated>
   <id>http://blog.dongdongdong.vip/</id>
   
   <author>
@@ -18,10 +18,12 @@
   
   <entry>
     <title>如何使用GitHub+Hexo搭建自己的博客关于</title>
-    <link href="http://blog.dongdongdong.vip/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/f9b0cf9b35a1/"/>
-    <id>http://blog.dongdongdong.vip/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/f9b0cf9b35a1/</id>
-    <published>2021-10-14T13:22:22.532Z</published>
-    <updated>2021-10-15T12:53:36.470Z</updated>
+    <link href="http://blog.dongdongdong.vip/202110/555b91f24d09/"/>
+    <id>http://blog.dongdongdong.vip/202110/555b91f24d09/</id>
+    <published>2021-10-14T16:00:00.000Z</published>
+    <updated>2021-10-15T13:00:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一篇博客也不知道写点什么, 就把自己搭建博客的方法分享给搭建吧.<br />我使用的<a href="https://hexo.io/">Hexo</a>+GitHub 来实现的.</p><h2 id="首先说一下搭建博客都有那几种架构吧"><a class="markdownIt-Anchor" href="#首先说一下搭建博客都有那几种架构吧"></a> 首先说一下搭建博客都有那几种架构吧.</h2>]]></content>
     
     
     <summary type="html">如何使用GitHub+Hexo搭建自己的博客关于</summary>
@@ -30,19 +32,19 @@
     
     <category term="博客搭建及使用" scheme="http://blog.dongdongdong.vip/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
     
-    <category term="博客搭建" scheme="http://blog.dongdongdong.vip/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
     
     <category term="Hexo" scheme="http://blog.dongdongdong.vip/tags/Hexo/"/>
     
     <category term="Hexo+GitHub" scheme="http://blog.dongdongdong.vip/tags/Hexo-GitHub/"/>
     
+    <category term="博客" scheme="http://blog.dongdongdong.vip/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.dongdongdong.vip/default/56e664894734/"/>
-    <id>http://blog.dongdongdong.vip/default/56e664894734/</id>
+    <link href="http://blog.dongdongdong.vip/202110/56e664894734/"/>
+    <id>http://blog.dongdongdong.vip/202110/56e664894734/</id>
     <published>2021-10-14T12:30:06.875Z</published>
     <updated>2021-10-14T12:30:06.875Z</updated>
     
