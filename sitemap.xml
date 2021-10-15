@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://blog.dongdongdong.vip/categories/</loc>
-    
-    <lastmod>2021-10-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.dongdongdong.vip/links/</loc>
     
     <lastmod>2021-10-14</lastmod>
@@ -30,6 +23,13 @@
   </url>
   
   <url>
+    <loc>http://blog.dongdongdong.vip/categories/</loc>
+    
+    <lastmod>2021-10-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.dongdongdong.vip/tags/</loc>
     
     <lastmod>2021-10-14</lastmod>
@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://blog.dongdongdong.vip/books/</loc>
+    <loc>http://blog.dongdongdong.vip/about/</loc>
     
     <lastmod>2021-10-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.dongdongdong.vip/about/</loc>
+    <loc>http://blog.dongdongdong.vip/books/</loc>
     
     <lastmod>2021-10-14</lastmod>
     
