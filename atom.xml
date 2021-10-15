@@ -6,7 +6,7 @@
   <link href="http://blog.dongdongdong.vip/atom.xml" rel="self"/>
   
   <link href="http://blog.dongdongdong.vip/"/>
-  <updated>2021-10-15T12:03:52.365Z</updated>
+  <updated>2021-10-15T12:53:36.470Z</updated>
   <id>http://blog.dongdongdong.vip/</id>
   
   <author>
@@ -17,15 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>如何使用GitHub+Hexo搭建自己的博客</title>
-    <link href="http://blog.dongdongdong.vip/default/f9b0cf9b35a1/"/>
-    <id>http://blog.dongdongdong.vip/default/f9b0cf9b35a1/</id>
+    <title>如何使用GitHub+Hexo搭建自己的博客关于</title>
+    <link href="http://blog.dongdongdong.vip/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/f9b0cf9b35a1/"/>
+    <id>http://blog.dongdongdong.vip/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/f9b0cf9b35a1/</id>
     <published>2021-10-14T13:22:22.532Z</published>
-    <updated>2021-10-15T12:03:52.365Z</updated>
+    <updated>2021-10-15T12:53:36.470Z</updated>
+    
+    
+    <summary type="html">如何使用GitHub+Hexo搭建自己的博客关于</summary>
     
     
     
+    <category term="博客搭建及使用" scheme="http://blog.dongdongdong.vip/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
     
+    <category term="博客搭建" scheme="http://blog.dongdongdong.vip/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="Hexo" scheme="http://blog.dongdongdong.vip/tags/Hexo/"/>
+    
+    <category term="Hexo+GitHub" scheme="http://blog.dongdongdong.vip/tags/Hexo-GitHub/"/>
     
   </entry>
   
