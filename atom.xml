@@ -18,12 +18,12 @@
   
   <entry>
     <title>如何使用GitHub+Hexo搭建自己的博客关于</title>
-    <link href="http://blog.dongdongdong.vip/202110/555b91f24d09/"/>
-    <id>http://blog.dongdongdong.vip/202110/555b91f24d09/</id>
+    <link href="http://blog.dongdongdong.vip/202110/555b91f24d09.html"/>
+    <id>http://blog.dongdongdong.vip/202110/555b91f24d09.html</id>
     <published>2021-10-14T16:00:00.000Z</published>
     <updated>2021-10-15T13:00:20.000Z</updated>
     
-    <content type="html"><![CDATA[<p>第一篇博客也不知道写点什么, 就把自己搭建博客的方法分享给搭建吧.<br />我使用的<a href="https://hexo.io/">Hexo</a>+GitHub 来实现的.</p><h2 id="首先说一下搭建博客都有那几种架构吧"><a class="markdownIt-Anchor" href="#首先说一下搭建博客都有那几种架构吧"></a> 首先说一下搭建博客都有那几种架构吧.</h2>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>第一篇博客也不知道写点什么, 就把自己搭建博客的方法分享给搭建吧.<br />下边我详细的解读一下<br />我使用的<a href="https://hexo.io/">Hexo</a>+GitHub 来实现的.</p></blockquote><h2 id="首先要知道hexo是什么"><a class="markdownIt-Anchor" href="#首先要知道hexo是什么"></a> 首先要知道Hexo是什么</h2><blockquote><p>官方解释是: Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br />个人理解: Hexo有俩个作用,<br />1. <strong>最重要的用途</strong>可以将Markdown格式的文件生成静态文件(HTML).<br />2. 它还可以提供server服务, 可以就是说可以使用Hexo开启一个静态文件访问系统, 通过浏览器直接可以访问, 此公共能大多数用于撰写文章的时候调试使用.</p></blockquote><h2 id="首先说一下搭建博客都有那几种架构吧"><a class="markdownIt-Anchor" href="#首先说一下搭建博客都有那几种架构吧"></a> 首先说一下搭建博客都有那几种架构吧.</h2><p>在我看来一共有这么三种架构可供选择</p><ol><li>Hexo直接搭到自己服务器中. (这样的方式成本比较高,不容易维护,而且编写文章的时候不是很方便.)</li><li>Hexo+GitHub代理 方式<br />这种是在本地搭建一套Hexo平台, 使用GitHub做文件代理. <strong>推荐使用</strong><br />(这种成本最低, 容易上手, 维护成本低, 大家都在使用它)</li><li>Hexo+GitHub管理 方式</li></ol><h2 id="相关平台地址"><a class="markdownIt-Anchor" href="#相关平台地址"></a> 相关平台地址</h2><p><a href="https://hexo.io/zh-cn/docs/">hexo官方中文文档</a></p>]]></content>
     
     
     <summary type="html">如何使用GitHub+Hexo搭建自己的博客关于</summary>
@@ -43,10 +43,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.dongdongdong.vip/202110/56e664894734/"/>
-    <id>http://blog.dongdongdong.vip/202110/56e664894734/</id>
+    <link href="http://blog.dongdongdong.vip/202110/56e664894734.html"/>
+    <id>http://blog.dongdongdong.vip/202110/56e664894734.html</id>
     <published>2021-10-14T12:30:06.875Z</published>
-    <updated>2021-10-14T12:30:06.875Z</updated>
+    <updated>2021-10-15T13:20:34.390Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
